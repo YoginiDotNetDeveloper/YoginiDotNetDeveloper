@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin](https://www.linkedin.com/in/yogini-pimpalshende-48b71a1a3/)
+[Linkedin Yogini](https://www.linkedin.com/in/yogini-pimpalshende-48b71a1a3/)
 
 I'm
 Full Stack .Net Developer
